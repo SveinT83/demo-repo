@@ -1,3 +1,3 @@
 # Demo
 
-Dette er for testing
+Dette er for testing.
